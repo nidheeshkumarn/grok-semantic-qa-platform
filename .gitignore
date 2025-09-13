@@ -1,0 +1,8 @@
+# Database file
+qa_database.db
+# Python cache files
+__pycache__/
+*.pyc
+# Python virtual environment (if you use one)
+venv/
+.venv/
