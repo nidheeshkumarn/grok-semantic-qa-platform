@@ -1,4 +1,4 @@
-AI-Powered Semantic Q&A Platform
+# AI-Powered Semantic Q&A Platform
 A simple web application that answers questions using a powerful AI model from Groq. It cleverly saves answers to common questions in a local database to provide instant, cost-free responses for recurring queries.
 
 How It Works
@@ -8,7 +8,7 @@ The app checks its local database to see if a similar question has been asked fr
 If yes, it gives you the answer instantly from the database.
 If no, it sends your question to the Groq AI, gets the answer, shows it to you, and saves it for future use.
 
-##Full Implementation Guide
+# Full Implementation Guide
 Step 1: Get the Code
 First, clone the repository to your local machine.
 git clone [https://github.com/nidheeshkumarn/grok-semantic-qa-platform.git](https://github.com/nidheeshkumarn/grok-semantic-qa-platform.git)
